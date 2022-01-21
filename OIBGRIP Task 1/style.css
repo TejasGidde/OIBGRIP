@@ -137,8 +137,3 @@ nav ul li a {
     transform: scale(1.1);
     transition: .2s ease-in-out;
 }
-.nav ul:hover {
-    box-shadow: 3px 8px 22px rgba(247, 0, 148, 0.15);
-    transform: scale(1.1);
-    transition: .2s ease-in-out;
-}
